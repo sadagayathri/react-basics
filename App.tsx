@@ -4,7 +4,6 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  
   const x=100;
   const ar=[12,23,34]
   const br=["praveen","gubbala","srikanth"]
@@ -342,6 +341,5 @@ function App() {
 </div>
     </>
   )
-}
-
+}  
 export default App
